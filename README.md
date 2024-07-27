@@ -1,4 +1,4 @@
- Learning Project
+NestJs Learning Project
 
 This project is a comprehensive example of a NestJS application, demonstrating various features and best practices in building scalable and maintainable server-side applications.
 
